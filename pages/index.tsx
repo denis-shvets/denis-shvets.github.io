@@ -13,6 +13,27 @@ function HomePage() {
       <article>
         <h1>{NAME}</h1>
         <section>
+          <h2>Contacts</h2>
+          <ul>
+            <li>
+              Email:{' '}
+              <a href="mailto:denis.shvets.a+gh.pages@gmail.com">
+                denis.shvets.a+gh.pages@gmail.com
+              </a>
+            </li>
+            <li>
+              Linkedin:{' '}
+              <a
+                href="https://www.linkedin.com/in/denisshvets/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                denisshvets
+              </a>
+            </li>
+          </ul>
+        </section>
+        <section>
           <h2>Career Summary</h2>
           <p>
             Front-end developer with production experience in software
