@@ -9,6 +9,10 @@ function HomePage() {
     <main className={styles.root}>
       <Head>
         <title>{NAME}</title>
+        <meta
+          name="google-site-verification"
+          content="qJrjbErgOsTHaoSdBWT0td6HQwtDcjPwMldWWZ99cFQ"
+        />
       </Head>
       <article>
         <h1>{NAME}</h1>
