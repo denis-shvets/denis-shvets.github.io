@@ -233,12 +233,12 @@ function HomePage() {
             Front-end developer, Team lead <br />
             April 2018 — August 2018
           </p>
-          <p>Worked on education CRM for State University of New York.</p>
+          <p>Worked on education CRM for the State University of New York.</p>
           <p>Responsibilities:</p>
           <ul>
             <li>Team management;</li>
             <li>Front-end development;</li>
-            <li>Back - end development;</li>
+            <li>Back-end development;</li>
             <li>Code review;</li>
             <li>Work planning;</li>
             <li>Mentoring;</li>
@@ -250,7 +250,7 @@ function HomePage() {
             April 2018 - August 2018
           </p>
           <p>
-            Worked on Bankera, CoinSupply and Socium Trade crypto currency
+            Worked on Bankera, CoinSupply, and Socium Trade cryptocurrency
             exchange web applications.
           </p>
           <p>Responsibilities:</p>
@@ -270,9 +270,9 @@ function HomePage() {
           </p>
           <p>Following tasks were performed:</p>
           <ul>
-            <li>Developed from scratch corporate website;</li>
+            <li>Developed from the scratch corporate website;</li>
             <li>
-              Developed from scratch iOS and Android applications for main
+              Developed from scratch iOS and Android applications for the main
               product;
             </li>
             <li>
@@ -326,8 +326,8 @@ function HomePage() {
               and testing;
             </li>
             <li>
-              Created universal template which increased feature implementation
-              speed and speed up release cycle;
+              Was created a universal template which increased feature
+              implementation speed and speeds up release cycle;
             </li>
             <li>
               Created core admin template for all projects that reduced support
@@ -335,7 +335,7 @@ function HomePage() {
             </li>
             <li>Made decisions on technologies to use;</li>
             <li>Setup processes in front-end department;</li>
-            <li>Added Code Review into process;</li>
+            <li>Added Code Review into the process;</li>
             <li>Task distribution in the department;</li>
             <li>Presentations about technologies for department;</li>
             <li>Interviewed candidates;</li>
@@ -374,12 +374,12 @@ function HomePage() {
           </p>
           <p>Following tasks were performed:</p>
           <ul>
-            <li>Participated in replatforming phase;</li>
+            <li>Participated in re-platforming phase;</li>
             <li>Integrated with FLUX, Facebook, Twitter;</li>
             <li>Developed reusable web components;</li>
             <li>Added Responsive Web Design to projects;</li>
             <li>Optimized static content;</li>
-            <li>Added Code Review into process;</li>
+            <li>Added Code Review into the process;</li>
             <li>Presented technical demos to the customer;</li>
             <li>Worked on Front-end related tasks.</li>
           </ul>
