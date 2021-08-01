@@ -21,6 +21,12 @@
   }
   ul {
     margin: 0;
+
+    li {
+      &:not(:first-child) {
+        margin-top: 10px;
+      }
+    }
   }
 
   section {
