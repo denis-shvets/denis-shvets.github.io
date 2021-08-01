@@ -9,15 +9,20 @@ function HomePage() {
     <main className={styles.root}>
       <Head>
         <title>{NAME}</title>
+        <meta name="author" content={NAME} />
+        <meta
+          name="description"
+          content="Software Engineer, Front-end Developer. Master’s degree in Information Technologies Software. Focused on React development and its ecosystem."
+        />
         <meta
           name="google-site-verification"
           content="qJrjbErgOsTHaoSdBWT0td6HQwtDcjPwMldWWZ99cFQ"
         />
       </Head>
       <article>
-        <h1>{NAME}</h1>
         <section>
-          <h2>Career Summary</h2>
+          <h1>{NAME}</h1>
+          <h2>Front-end Developer</h2>
           <p>
             I’m a Software Engineer specializing in Front-end development. I
             graduated with a Master’s degree in Information Technologies
