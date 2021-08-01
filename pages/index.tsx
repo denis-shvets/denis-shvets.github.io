@@ -101,55 +101,74 @@ function HomePage() {
           <h2>Summary of Qualifications</h2>
           <ul>
             <li>
-              <strong>HTML</strong>, <strong>CSS</strong> and JavaScript
+              Strong core front-end background: <strong>HTML</strong>,{' '}
+              <strong>CSS</strong>, and <strong>JavaScript</strong>.
             </li>
             <li>
-              <strong>SASS</strong>, LESS and PostCSS
+              Experience in CSS preprocessors: <strong>SASS</strong>, LESS, and
+              PostCSS
             </li>
             <li>
-              <strong>Reaсt</strong>, <strong>Next.js</strong>, React Native,
-              Redux, <strong>Lodash</strong>, jQuery, Apollo, Angular, Vue,
-              Electron, GSAP, <strong>D3</strong>, three.js, Knockout, Kinetic,
-              Autobahn, Socket.io, Backbone, Underscore, Ember and RequireJS
-            </li>
-            <li>
-              <strong>BEM</strong>, SMACSS, ACSS, OOCSS, SPA, Parallax,{' '}
-              <strong>Responsive Web Design</strong> and Compatibility with
-              modern and legacy browsers
-            </li>
-            <li>
-              Semantics, Connectivity(Web Sockets), Offline & Storage(Storage
-              and FileReader), 2D/3D Graphics & Effects(SVG and Canvas),
-              Performance & Integration(History API, Drag and Drop, Animation,
-              Fullscreen API) and Styling
-            </li>
-            <li>Node.js, PHP, Python and Java</li>
-            <li>
-              <strong>Webpack</strong>, Docker, <strong>npm</strong>,{' '}
-              <strong>yarn</strong>, GraphQL, Gulp, Grunt, PuTTY, Virtual Box,
-              Bower, Bootstrap, Foundation and Yeoman
-            </li>
-            <li>
-              <strong>JIRA</strong>, <strong>Confluence</strong>,{' '}
-              <strong>GitHub</strong>, CircleCI, Stash and Crucible
-            </li>
-            <li>
-              <strong>Git</strong>, SVN and Perforce
-            </li>
-            <li>WordPress, Orchard, Drupal and different custom builds</li>
-            <li>Mongo, PostgreSQL, Oracle and MySQL</li>
-            <li>
-              <strong>Photoshop</strong>, <strong>Illustrator</strong>,{' '}
-              <strong>Sketch</strong> and AfterEffects
-            </li>
-            <li>
-              Cypress, Sentry, various linters, <strong>Jest</strong> and{' '}
-              <strong>react-testing-library</strong>
-            </li>
-            <li>
-              Nunjucks, Mustache, Thymeleaf, HAML, Jade/Pug, Twig, Smarty and
+              Experience in HTML preprocessors and Template Systems: Nunjucks,
+              Mustache, Thymeleaf, HAML, <strong>Pug</strong>, Twig, Smarty, and
               Jekyll
             </li>
+            <li>
+              Experience in JavaScript preprocessors:{' '}
+              <strong>TypeScript</strong>, and CoffeeScript
+            </li>
+            <li>
+              Experience in many JavaScript libraries and frameworks including
+              the most significant and popular: <strong>Reaсt</strong>,{' '}
+              <strong>Next</strong>, <strong>React Hook Form</strong>,{' '}
+              <strong>SWR</strong>, <strong>React Query</strong>, Axios, React
+              Native, Redux, <strong>Lodash</strong>, jQuery, Apollo, Angular,
+              Vue, Nuxt, Electron, GSAP, <strong>D3</strong>, three.js,
+              Knockout, Kinetic, Autobahn, <strong>Socket.io</strong>, Backbone,
+              Underscore, Ember, and RequireJS
+            </li>
+            <li>
+              Experience in best Testing and Quality tools:{' '}
+              <strong>Jest</strong>, <strong>React Testing Library</strong>,
+              Cypress, Enzyme, <strong>ESLint</strong>,{' '}
+              <strong>Prettier</strong>, and Sentry
+            </li>
+            <li>
+              Experience in various tools and services: <strong>Webpack</strong>
+              , <strong>Docker</strong>, <strong>npm</strong>,{' '}
+              <strong>yarn</strong>, <strong>JIRA</strong>,{' '}
+              <strong>Confluence</strong>, <strong>GitHub</strong>, GitHub
+              Actions, GitLab, OpenID Connect, CircleCI, Stash, Crucible,
+              GraphQL, Gulp, Grunt, PuTTY, Virtual Box, Bower, Bootstrap,
+              Foundation, Material Design, Ant Design, and Yeoman
+            </li>
+            <li>
+              Made integration with different CMS: <strong>Strapi</strong>,
+              WordPress, Orchard, Drupal, as some custom builds
+            </li>
+            <li>
+              Intermediate skills in Design tools: <strong>Photoshop</strong>,{' '}
+              <strong>Illustrator</strong>, and <strong>Sketch</strong>
+            </li>
+            <li>
+              I’m using different methodologies: <strong>BEM</strong>, SMACSS,
+              ACSS, OOCSS, SPA, Parallax, <strong>Responsive Web Design</strong>
+              , and Compatibility with modern and legacy browsers
+            </li>
+            <li>
+              Also, I know and using modern HTML5 technologies: Semantics,
+              Connectivity(<strong>Web Sockets</strong>), Offline &
+              Storage(Storage and FileReader), 2D/3D Graphics & Effects(
+              <strong>SVG</strong> and Canvas), Performance &
+              Integration(History API, Drag and Drop, Animation, Fullscreen
+              API), and Styling
+            </li>
+            <li>
+              Experience with different VCS: <strong>Git</strong>, SVN, and
+              Perforce
+            </li>
+            <li>Some experience in DB: Mongo, PostgreSQL, Oracle, and MySQL</li>
+            <li>Some experience in back-end: Node.js, PHP, Python, and Java</li>
           </ul>
         </section>
         <section>
