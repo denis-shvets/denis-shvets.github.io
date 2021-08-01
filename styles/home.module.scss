@@ -24,10 +24,14 @@
   }
 
   section {
-    margin-top: 40px;
+    &:not(:first-child) {
+      margin-top: 40px;
+    }
 
     > * {
-      margin-top: 25px;
+      &:not(:first-child) {
+        margin-top: 25px;
+      }
     }
 
     h3 {

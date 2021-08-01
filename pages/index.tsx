@@ -17,27 +17,6 @@ function HomePage() {
       <article>
         <h1>{NAME}</h1>
         <section>
-          <h2>Contacts</h2>
-          <ul>
-            <li>
-              Email:{' '}
-              <a href="mailto:denis.shvets.a+gh.pages@gmail.com">
-                denis.shvets.a+gh.pages@gmail.com
-              </a>
-            </li>
-            <li>
-              Linkedin:{' '}
-              <a
-                href="https://www.linkedin.com/in/denisshvets/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                denisshvets
-              </a>
-            </li>
-          </ul>
-        </section>
-        <section>
           <h2>Career Summary</h2>
           <p>
             I’m a Software Engineer specializing in Front-end development. I
@@ -81,6 +60,37 @@ function HomePage() {
             </a>
             , and countless startups.
           </p>
+        </section>
+        <section>
+          <h2>Contacts</h2>
+          <address>
+            <div>
+              Telegram:{' '}
+              <a
+                href="https://telegram.me/DenisShvets"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                @DenisShvets
+              </a>
+            </div>
+            <div>
+              Email:{' '}
+              <a href="mailto:denis.shvets.a+gh.pages@gmail.com">
+                denis.shvets.a+gh.pages@gmail.com
+              </a>
+            </div>
+            <div>
+              LinkedIn:{' '}
+              <a
+                href="https://www.linkedin.com/in/denisshvets/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                denisshvets
+              </a>
+            </div>
+          </address>
         </section>
         <section>
           <h2>Summary of Qualifications</h2>
