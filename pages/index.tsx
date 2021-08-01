@@ -40,10 +40,46 @@ function HomePage() {
         <section>
           <h2>Career Summary</h2>
           <p>
-            Front-end developer with production experience in software
-            development. Experienced in building responsive web and mobile
-            applications which are used by customers throughout the world.
-            Immersed in the latest and coolest technologies.
+            I’m a Software Engineer specializing in Front-end development. I
+            graduated with a Master’s degree in Information Technologies
+            Software. I’ve been writing code since 2003. At the moment I am
+            focused on React development and its ecosystem. Passionate about
+            modern technology. Attentive to details.
+          </p>
+          <p>
+            I’ve written code for{' '}
+            <a
+              href="https://www.epicgames.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Epic Games
+            </a>
+            ,{' '}
+            <a
+              href="https://square-enix-games.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Square Enix
+            </a>
+            ,{' '}
+            <a
+              href="https://www.imax.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              IMAX
+            </a>
+            ,{' '}
+            <a
+              href="https://www.viacomcbs.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Viacom
+            </a>
+            , and countless startups.
           </p>
         </section>
         <section>
