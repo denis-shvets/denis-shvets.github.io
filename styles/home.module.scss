@@ -34,14 +34,11 @@
       margin-top: 40px;
     }
 
+    dd > *,
     > * {
       &:not(:first-child) {
         margin-top: 25px;
       }
-    }
-
-    h3 {
-      margin-top: 40px;
     }
   }
 }

@@ -24,11 +24,13 @@ function HomePage() {
           <h1>{NAME}</h1>
           <h2>Front-end Developer</h2>
           <p>
-            I’m a Software Engineer specializing in Front-end development. I
-            graduated with a Master’s degree in Information Technologies
-            Software. I’ve been writing code since 2003. At the moment I am
-            focused on React development and its ecosystem. Passionate about
-            modern technology. Attentive to details.
+            I’m a <strong>Software Engineer</strong> specializing in{' '}
+            <strong>Front-end development</strong>. I graduated with a{' '}
+            <strong>Master’s</strong> degree in{' '}
+            <strong>Information Technologies Software</strong>. I’ve been
+            writing code since 2003. At the moment I am focused on{' '}
+            <strong>React</strong> development and its ecosystem. Passionate
+            about modern technology. Attentive to details.
           </p>
           <p>
             I’ve written code for{' '}
@@ -121,16 +123,17 @@ function HomePage() {
               Experience in many JavaScript libraries and frameworks including
               the most significant and popular: <strong>Reaсt</strong>,{' '}
               <strong>Next</strong>, <strong>React Hook Form</strong>,{' '}
-              <strong>SWR</strong>, <strong>React Query</strong>, Axios, React
-              Native, Redux, <strong>Lodash</strong>, jQuery, Apollo, Angular,
-              Vue, Nuxt, Electron, GSAP, <strong>D3</strong>, three.js,
-              Knockout, Kinetic, Autobahn, <strong>Socket.io</strong>, Backbone,
-              Underscore, Ember, and RequireJS
+              <strong>SWR</strong>, <strong>React Query</strong>, Axios,{' '}
+              <strong>React Select</strong>, React Native, Redux,{' '}
+              <strong>Lodash</strong>, Styled Components, Emotion, jQuery,
+              Apollo, Angular, Vue, Nuxt, Electron, GSAP, <strong>D3</strong>,
+              three.js, Knockout, Kinetic, Autobahn, <strong>Socket.io</strong>,
+              Backbone, Underscore, Ember, and RequireJS
             </li>
             <li>
               Experience in best Testing and Quality tools:{' '}
               <strong>Jest</strong>, <strong>React Testing Library</strong>,
-              Cypress, Enzyme, <strong>ESLint</strong>,{' '}
+              <strong>Cypress</strong>, Enzyme, <strong>ESLint</strong>,{' '}
               <strong>Prettier</strong>, and Sentry
             </li>
             <li>
@@ -138,9 +141,9 @@ function HomePage() {
               , <strong>Docker</strong>, <strong>npm</strong>,{' '}
               <strong>yarn</strong>, <strong>JIRA</strong>,{' '}
               <strong>Confluence</strong>, <strong>GitHub</strong>, GitHub
-              Actions, GitLab, OpenID Connect, CircleCI, Stash, Crucible,
-              GraphQL, Gulp, Grunt, PuTTY, Virtual Box, Bower, Bootstrap,
-              Foundation, Material Design, Ant Design, and Yeoman
+              Actions, GitLab, OpenID Connect, CircleCI, Stripe, Stash,
+              Crucible, GraphQL, Gulp, Grunt, PuTTY, Virtual Box, Bower,
+              Bootstrap, Foundation, Material Design, Ant Design, and Yeoman
             </li>
             <li>
               Made integration with different CMS: <strong>Strapi</strong>,
@@ -152,8 +155,10 @@ function HomePage() {
             </li>
             <li>
               I’m using different methodologies: <strong>BEM</strong>, SMACSS,
-              ACSS, OOCSS, SPA, Parallax, <strong>Responsive Web Design</strong>
-              , and Compatibility with modern and legacy browsers
+              ACSS, OOCSS, <strong>Mobile First</strong>,{' '}
+              <strong>Base First</strong>, <strong>Jamstack</strong>, SPA,
+              Parallax, <strong>Responsive Web Design</strong>, and
+              Compatibility with modern and legacy browsers
             </li>
             <li>
               Also, I know and using modern HTML5 technologies: Semantics,
@@ -173,65 +178,124 @@ function HomePage() {
         </section>
         <section>
           <h2>Career History</h2>
-          <h3>Globant LLC, Minsk, Belarus</h3>
+          <h3>Globant</h3>
           <p>
-            Front-end developer <br />
-            August 2018
+            Lead Software Engineer <br />
+            August 2018 &ndash; Present <br />
+            Minsk, Belarus
           </p>
+          <dl>
+            <dt>
+              <h4>SLiC</h4>
+            </dt>
+            <dd>
+              <p>
+                At present time I’m working on the <strong>Creators</strong> and{' '}
+                <strong>Consumer</strong> web applications for{' '}
+                <strong>SLiC</strong> as a <strong>Technical Leader</strong>. On
+                the project, we use the modern architecture{' '}
+                <strong>Jamstack</strong>. <strong>Yarn workspaces</strong> to
+                organize the applications and shared components.{' '}
+                <strong>Next.js</strong> as core framework with{' '}
+                <strong>React</strong> and <strong>TypeScript</strong> under the
+                hood. For forms used the proven <strong>React Hook Form</strong>
+                . For API integration used <strong>SWR</strong> &mdash; React
+                Hooks for Data Fetching. The applications integrated with{' '}
+                <strong>Strapi</strong> &mdash; headless CMS and{' '}
+                <strong>Stripe</strong> &mdash; payments infrastructure. The
+                unit and integration tests used the <strong>Jest</strong> and{' '}
+                <strong>React Testing Library</strong>. E2E tests used{' '}
+                <strong>Cypress</strong>. As code quality tools are used{' '}
+                <strong>ESLint</strong> and <strong>Prettier</strong>. The
+                development team consists of 7 people located in 5 different
+                time zones.
+              </p>
+              <p>
+                At the project, I’m responsible for architecture, technical
+                solution, functional and technical analysis, sprint goals
+                accomplish, sprint estimation, removal impediments, refactoring,
+                code review, product quality, communication with the customer,
+                and demo.
+              </p>
+            </dd>
+            <dt>
+              <h4>Epic Games</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on the <strong>Mediatonic Player Portal</strong> web
+                application for <strong>Epic Games</strong> as a{' '}
+                <strong>Front-end Leader</strong>. On the project, we used the
+                modern architecture <strong>Jamstack</strong>.{' '}
+                <strong>Next.js</strong> as core framework with{' '}
+                <strong>React</strong> and <strong>TypeScript</strong> under the
+                hood. For forms used the proven <strong>React Hook Form</strong>
+                . For API integration used <strong>SWR</strong> &mdash; React
+                Hooks for Data Fetching. The unit and integration tests used the{' '}
+                <strong>Jest</strong> and <strong>React Testing Library</strong>
+                . E2E tests used <strong>Cypress</strong>. As code quality tools
+                are used <strong>ESLint</strong> and <strong>Prettier</strong>.
+                The development team consists of 3 people located at the same
+                place.
+              </p>
+              <p>
+                At the project, I was responsible for architecture, sprint goals
+                accomplish, sprint estimation, removal impediments, refactoring,
+                code review, product quality, communication with the customer,
+                and demo.
+              </p>
+            </dd>
+            <dt>
+              <h4>Square Enix</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on the <strong>Stargate</strong> web application for{' '}
+                <strong>Square Enix</strong> as a{' '}
+                <strong>Front-end Leader</strong>. It was an old company project
+                where our goal was to develop new features, integrate quality
+                tools, and make refactoring. On the project, we used{' '}
+                <strong>React</strong> with <strong>TypeScript</strong>. For API
+                integration used <strong>Axios</strong> &mdash; Promise based
+                HTTP client for the browser and Node.js. As code quality tools
+                are used <strong>ESLint</strong> and <strong>Prettier</strong>.
+                The development team consists of 3 people located at the same
+                place.
+              </p>
+              <p>
+                At the project, I was responsible for new features development,
+                sprint goals accomplish, sprint estimation, refactoring, code
+                review, product quality, communication with the customer, and
+                demo.
+              </p>
+            </dd>
+            <dt>
+              <h4>StartWire</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on the <strong>StartWire</strong> job search web
+                application as a <strong>Front-end Developer</strong>. It was an
+                old company project where our goal was to migrate from Angular
+                v1 to React, develop new features, integrate quality tools, and
+                make refactoring. On the project, we used <strong>React</strong>{' '}
+                with <strong>TypeScript</strong>. For API integration used
+                native <strong>Fetch</strong>. As code quality tools are used{' '}
+                <strong>ESLint</strong> and <strong>Prettier</strong>. The
+                development team consists of 5 people located at the same place.
+              </p>
+              <p>
+                At the project, I was responsible for new features development,
+                sprint goals accomplish, sprint estimation, refactoring, product
+                quality, and communication with the customer.
+              </p>
+            </dd>
+          </dl>
+          <h3>Sivintech</h3>
           <p>
-            Worked on <strong>StartWire</strong> job search web application.
-            (React, TypeScript)
-          </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>Migration from Angular v1 to React with TypeScript;</li>
-            <li>New features development;</li>
-            <li>Code quality tools integration.</li>
-          </ul>
-          <p>Responsibilities:</p>
-          <ul>
-            <li>Front-end development;</li>
-            <li>Code review;</li>
-            <li>Work planning;</li>
-            <li>Customer communications.</li>
-          </ul>
-          <p>
-            Worked on <strong>Stargate</strong> support web application. (React,
-            TypeScript)
-          </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>New features development;</li>
-            <li>Code quality tools integration;</li>
-            <li>Refactoring.</li>
-          </ul>
-          <p>Responsibilities:</p>
-          <ul>
-            <li>Team lead;</li>
-            <li>Front-end development;</li>
-            <li>Work planning;</li>
-            <li>Customer communications.</li>
-          </ul>
-          <p>
-            Worked on <strong>Mediatonic Player Portal</strong>. (React,
-            Next.js, TypeScript)
-          </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>Architecture development;</li>
-            <li>New features development.</li>
-          </ul>
-          <p>Responsibilities:</p>
-          <ul>
-            <li>Front-end lead;</li>
-            <li>Front-end development;</li>
-            <li>Work planning;</li>
-            <li>Customer communications.</li>
-          </ul>
-          <h3>Sivintech, Minsk, Belarus</h3>
-          <p>
-            Front-end developer, Team lead <br />
-            April 2018 — August 2018
+            Lead Software Engineer <br />
+            April 2018 &ndash; August 2018 <br />
+            Minsk, Belarus
           </p>
           <p>Worked on education CRM for the State University of New York.</p>
           <p>Responsibilities:</p>
@@ -244,10 +308,11 @@ function HomePage() {
             <li>Mentoring;</li>
             <li>Customer communications.</li>
           </ul>
-          <h3>Besk, Minsk, Belarus</h3>
+          <h3>Besk</h3>
           <p>
-            Front-end developer, Team lead <br />
-            April 2018 - August 2018
+            Lead Software Engineer <br />
+            January 2018 &ndash; April 2018 <br />
+            Minsk, Belarus
           </p>
           <p>
             Worked on Bankera, CoinSupply, and Socium Trade cryptocurrency
@@ -262,11 +327,11 @@ function HomePage() {
             <li>Mentoring;</li>
             <li>Customer communication.</li>
           </ul>
-          <h3>Watty AB, Stockholm, Sweden</h3>
+          <h3>Watty AB</h3>
           <p>
-            Front-end developer
-            <br />
-            September 2015 — December 2017
+            Lead Software Engineer <br />
+            September 2015 &ndash; December 2017 <br />
+            Stockholm, Sweden
           </p>
           <p>Following tasks were performed:</p>
           <ul>
@@ -284,11 +349,18 @@ function HomePage() {
             </li>
             <li>Worked on Front-end related tasks.</li>
           </ul>
-          <h3>HiEnd Systems, Minsk, Belarus</h3>
+          <h3>C/MIND</h3>
           <p>
-            Front-end developer, Team lead
-            <br />
-            January 2015 — August 2015
+            Lead Software Engineer <br />
+            September 2015 &ndash; December 2015 <br />
+            Stockholm, Sweden
+          </p>
+          <p>Worked on Front-end related tasks.</p>
+          <h3>HiEnd Systems</h3>
+          <p>
+            Lead Software Engineer <br />
+            January 2015 &ndash; August 2015 <br />
+            Minsk, Belarus
           </p>
           <p>Worked on Front-end related tasks.</p>
           <p>Projects:</p>
@@ -299,18 +371,18 @@ function HomePage() {
             </li>
             <li>5 more familiar to MoneyMan projects.</li>
           </ul>
-          <h3>Onestop Internet, Los Angeles, USA</h3>
+          <h3>Onestop Internet</h3>
           <p>
-            Front-end developer
-            <br />
-            March 2014 — August 2014
+            Lead Software Engineer <br />
+            March 2014 &ndash; August 2014 <br />
+            Los Angeles County, California, United States
           </p>
           <p>Worked on Front-end related tasks.</p>
-          <h3>Startup Labs, Minsk, Belarus</h3>
+          <h3>Startup Labs</h3>
           <p>
-            Front-end developer, Team lead
-            <br />
-            August 2012 — September 2013
+            Lead Software Engineer <br />
+            August 2012 &ndash; September 2013 <br />
+            Minsk, Belarus
           </p>
           <p>Following tasks were performed:</p>
           <ul>
@@ -366,11 +438,11 @@ function HomePage() {
             <li>Loan Up (https://loanup.com/);</li>
             <li>21 more similar projects.</li>
           </ul>
-          <h3>EPAM Systems, Minsk, Belarus</h3>
+          <h3>EPAM Systems</h3>
           <p>
-            Front-end developer, Team lead
-            <br />
-            March 2011 — August 2012
+            Software Engineer <br />
+            March 2011 &ndash; August 2012 <br />
+            Minsk, Belarus
           </p>
           <p>Following tasks were performed:</p>
           <ul>
@@ -405,11 +477,11 @@ function HomePage() {
               </ul>
             </li>
           </ul>
-          <h3>Dmitri Borovoy design studio, Minsk, Belarus</h3>
+          <h3>Dmitri Borovoy design studio</h3>
           <p>
-            Front-end developer
-            <br />
-            April 2010 — October 2010
+            Software Engineer <br />
+            April 2010 &ndash; October 2010 <br />
+            Minsk, Belarus
           </p>
           <p>Following tasks were performed:</p>
           <ul>
@@ -421,13 +493,11 @@ function HomePage() {
           </ul>
           <h3>Freelance</h3>
           <p>
-            Front-end developer
-            <br />
-            September 2014 — January 2015
-            <br />
-            September 2013 — March 2014
-            <br />
-            June 2005 — February 2011
+            Front-end Developer <br />
+            September 2014 &ndash; January 2015 <br />
+            September 2013 &ndash; March 2014 <br />
+            October 2010 &ndash; March 2011 <br />
+            June 2005 &ndash; April 2010
           </p>
           <p>Worked on Front-end related tasks.</p>
           <p>Projects:</p>
@@ -451,7 +521,8 @@ function HomePage() {
         </section>
         <section>
           <h2>Education</h2>
-          <h3>BELARUSIAN NATIONAL TECHNICAL UNIVERSITY, MINSK, BELARUS</h3>
+          <h3>Belarusian National Technical University</h3>
+          <p>Minsk, Belarus</p>
           <p>
             Information Technologies and Robotics <br />
             Master of Science in Information Technologies Software, Software
