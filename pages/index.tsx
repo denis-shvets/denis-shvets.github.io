@@ -192,22 +192,22 @@ function HomePage() {
               <p>
                 At present time I’m working on the <strong>Creators</strong> and{' '}
                 <strong>Consumer</strong> web applications for{' '}
-                <strong>SLiC</strong> as a <strong>Technical Leader</strong>. On
+                <strong>SLiC</strong> as a <strong>Technical Lead</strong>. On
                 the project, we use the modern architecture{' '}
                 <strong>Jamstack</strong>. <strong>Yarn workspaces</strong> to
                 organize the applications and shared components.{' '}
                 <strong>Next.js</strong> as core framework with{' '}
-                <strong>React</strong> and <strong>TypeScript</strong> under the
-                hood. For forms used the proven <strong>React Hook Form</strong>
-                . For API integration used <strong>SWR</strong> &mdash; React
-                Hooks for Data Fetching. The applications integrated with{' '}
-                <strong>Strapi</strong> &mdash; headless CMS and{' '}
-                <strong>Stripe</strong> &mdash; payments infrastructure. The
-                unit and integration tests used the <strong>Jest</strong> and{' '}
-                <strong>React Testing Library</strong>. E2E tests used{' '}
-                <strong>Cypress</strong>. As code quality tools are used{' '}
-                <strong>ESLint</strong> and <strong>Prettier</strong>. The
-                development team consists of 7 people located in 5 different
+                <strong>SASS</strong>, <strong>React</strong> and{' '}
+                <strong>TypeScript</strong> under the hood. For forms used the
+                proven <strong>React Hook Form</strong>. For API integration
+                used <strong>SWR</strong> &mdash; React Hooks for Data Fetching.
+                The applications integrated with <strong>Strapi</strong> &mdash;
+                headless CMS and <strong>Stripe</strong> &mdash; payments
+                infrastructure. The unit and integration tests used the{' '}
+                <strong>Jest</strong> and <strong>React Testing Library</strong>
+                . E2E tests used <strong>Cypress</strong>. As code quality tools
+                are used <strong>ESLint</strong> and <strong>Prettier</strong>.
+                The development team consists of 7 people located in 5 different
                 time zones.
               </p>
               <p>
@@ -225,18 +225,18 @@ function HomePage() {
               <p>
                 Worked on the <strong>Mediatonic Player Portal</strong> web
                 application for <strong>Epic Games</strong> as a{' '}
-                <strong>Front-end Leader</strong>. On the project, we used the
+                <strong>Front-end Lead</strong>. On the project, we used the
                 modern architecture <strong>Jamstack</strong>.{' '}
                 <strong>Next.js</strong> as core framework with{' '}
-                <strong>React</strong> and <strong>TypeScript</strong> under the
-                hood. For forms used the proven <strong>React Hook Form</strong>
-                . For API integration used <strong>SWR</strong> &mdash; React
-                Hooks for Data Fetching. The unit and integration tests used the{' '}
-                <strong>Jest</strong> and <strong>React Testing Library</strong>
-                . E2E tests used <strong>Cypress</strong>. As code quality tools
-                are used <strong>ESLint</strong> and <strong>Prettier</strong>.
-                The development team consists of 3 people located at the same
-                place.
+                <strong>SASS</strong>, <strong>React</strong> and{' '}
+                <strong>TypeScript</strong> under the hood. For forms used the
+                proven <strong>React Hook Form</strong>. For API integration
+                used <strong>SWR</strong> &mdash; React Hooks for Data Fetching.
+                The unit and integration tests used the <strong>Jest</strong>{' '}
+                and <strong>React Testing Library</strong>. E2E tests used{' '}
+                <strong>Cypress</strong>. As code quality tools are used{' '}
+                <strong>ESLint</strong> and <strong>Prettier</strong>. The
+                development team consists of 3 people located at the same place.
               </p>
               <p>
                 At the project, I was responsible for architecture, sprint goals
@@ -252,10 +252,11 @@ function HomePage() {
               <p>
                 Worked on the <strong>Stargate</strong> web application for{' '}
                 <strong>Square Enix</strong> as a{' '}
-                <strong>Front-end Leader</strong>. It was an old company project
+                <strong>Front-end Lead</strong>. It was an old company project
                 where our goal was to develop new features, integrate quality
                 tools, and make refactoring. On the project, we used{' '}
-                <strong>React</strong> with <strong>TypeScript</strong>. For API
+                <strong>SASS</strong>, and <strong>React</strong> with{' '}
+                <strong>TypeScript</strong> and <strong>Redux</strong>. For API
                 integration used <strong>Axios</strong> &mdash; Promise based
                 HTTP client for the browser and Node.js. As code quality tools
                 are used <strong>ESLint</strong> and <strong>Prettier</strong>.
@@ -278,9 +279,10 @@ function HomePage() {
                 application as a <strong>Front-end Developer</strong>. It was an
                 old company project where our goal was to migrate from Angular
                 v1 to React, develop new features, integrate quality tools, and
-                make refactoring. On the project, we used <strong>React</strong>{' '}
-                with <strong>TypeScript</strong>. For API integration used
-                native <strong>Fetch</strong>. As code quality tools are used{' '}
+                make refactoring. On the project, we used <strong>SASS</strong>{' '}
+                and <strong>React</strong> with <strong>TypeScript</strong> and{' '}
+                <strong>Redux</strong>. For API integration used native{' '}
+                <strong>Fetch</strong>. As code quality tools are used{' '}
                 <strong>ESLint</strong> and <strong>Prettier</strong>. The
                 development team consists of 5 people located at the same place.
               </p>
@@ -297,17 +299,29 @@ function HomePage() {
             April 2018 &ndash; August 2018 <br />
             Minsk, Belarus
           </p>
-          <p>Worked on education CRM for the State University of New York.</p>
-          <p>Responsibilities:</p>
-          <ul>
-            <li>Team management;</li>
-            <li>Front-end development;</li>
-            <li>Back-end development;</li>
-            <li>Code review;</li>
-            <li>Work planning;</li>
-            <li>Mentoring;</li>
-            <li>Customer communications.</li>
-          </ul>
+          <dl>
+            <dt>
+              <h4>State University of New York</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on <strong>E-Plus</strong> &mdash; Education CRM for the{' '}
+                <strong>State University of New York</strong> as a{' '}
+                <strong>Front-end Developer</strong>. On the project, we used{' '}
+                <strong>SASS</strong>, <strong>React</strong>, and{' '}
+                <strong>Redux</strong>. For API integration used{' '}
+                <strong>Axios</strong> — Promise based HTTP client for the
+                browser and Node.js. As code quality tools are used{' '}
+                <strong>ESLint</strong> and <strong>Prettier</strong>. The
+                development team consists of 5 people located at the same place.
+              </p>
+              <p>
+                At the project, I was responsible for new features development,
+                sprint goals accomplish, sprint estimation, refactoring, code
+                review, product quality, and communication with the customer.
+              </p>
+            </dd>
+          </dl>
           <h3>Besk</h3>
           <p>
             Lead Software Engineer <br />
@@ -315,209 +329,199 @@ function HomePage() {
             Minsk, Belarus
           </p>
           <p>
-            Worked on Bankera, CoinSupply, and Socium Trade cryptocurrency
-            exchange web applications.
+            Worked on <strong>Bankera</strong> &mdash; Open Bank Account
+            Alternative Online, <strong>CoinSupply</strong>, and{' '}
+            <strong>Socium Trade</strong> cryptocurrency exchange web
+            applications as a <strong>Team Lead</strong>. On the products, we
+            used <strong>SASS</strong>, <strong>React</strong>, and{' '}
+            <strong>Redux</strong>. For API integration used native{' '}
+            <strong>Fetch</strong>. <strong>Three.js</strong> &mdash; JavaScript
+            3D Library for complex 3D visualizations. As a code quality tool is
+            used <strong>ESLint</strong>. The development team consists of 3
+            people located at the same place.
           </p>
-          <p>Responsibilities:</p>
-          <ul>
-            <li>Team management;</li>
-            <li>Front-end development;</li>
-            <li>Code review;</li>
-            <li>Work planning;</li>
-            <li>Mentoring;</li>
-            <li>Customer communication.</li>
-          </ul>
+          <p>
+            At the project, I was responsible for new features development,
+            sprint goals accomplish, sprint estimation, refactoring, code
+            review, product quality, communication with the customer, and demo.
+          </p>
           <h3>Watty AB</h3>
           <p>
             Lead Software Engineer <br />
             September 2015 &ndash; December 2017 <br />
             Stockholm, Sweden
           </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>Developed from the scratch corporate website;</li>
-            <li>
-              Developed from scratch iOS and Android applications for the main
-              product;
-            </li>
-            <li>
-              Developed about 10 internal projects to help other teams improve
-              productivity;
-            </li>
-            <li>
-              Integrated billing and support systems after product release;
-            </li>
-            <li>Worked on Front-end related tasks.</li>
-          </ul>
+          <dl>
+            <dt>
+              <h4>Company Website</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on <strong>Company Website</strong>. On the project, I
+                used <strong>SASS</strong>, <strong>React</strong>, and{' '}
+                <strong>Redux</strong>. <strong>D3</strong> &mdash; Data-Driven
+                Documents are used for any data visualizations. For API
+                integration used native <strong>Fetch</strong>. The website is
+                integrated with <strong>Stripe</strong> &mdash; payments
+                infrastructure. As a code quality tool is used{' '}
+                <strong>ESLint</strong>.
+              </p>
+            </dd>
+            <dt>
+              <h4>Watty &mdash; Android and iOS applications</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on <strong>Watty</strong> &mdash; Android and iOS
+                applications. On the project, I used{' '}
+                <strong>React Native</strong>. <strong>D3</strong> &mdash;
+                Data-Driven Documents are used for any data visualizations.
+              </p>
+            </dd>
+            <dt>
+              <h4>Prototypes, promotional, and dev applications</h4>
+            </dt>
+            <dd>
+              <p>
+                Created about 10 dev applications to visualize the data with{' '}
+                <strong>D3</strong> &mdash; Data-Driven Documents. Countless
+                prototypes, and promotional{' '}
+                <strong>Single Page Applications</strong>. Most of them were
+                written with <strong>React</strong> and <strong>Redux</strong>,
+                some of them on <strong>Angular</strong>. Mobile applications
+                were written with <strong>React Native</strong>.
+              </p>
+            </dd>
+          </dl>
+          <p>
+            As <strong>The Only One Front-end Developer in The Company</strong>{' '}
+            was responsible for all the products.
+          </p>
           <h3>C/MIND</h3>
           <p>
             Lead Software Engineer <br />
             September 2015 &ndash; December 2015 <br />
             Stockholm, Sweden
           </p>
-          <p>Worked on Front-end related tasks.</p>
+          <p>
+            Worked as <strong>Front-end Consultant</strong>. Was providing
+            services to <strong>Watty AB</strong>. After the probation period,{' '}
+            <strong>Watty AB</strong> hired me personally.
+          </p>
           <h3>HiEnd Systems</h3>
           <p>
             Lead Software Engineer <br />
             January 2015 &ndash; August 2015 <br />
             Minsk, Belarus
           </p>
-          <p>Worked on Front-end related tasks.</p>
-          <p>Projects:</p>
-          <ul>
-            <li>
-              MoneyMan — First and largest online Microfinance organization in
-              Russia, Kazakhstan, Spain and Georgia (http://moneyman.ru/);
-            </li>
-            <li>5 more familiar to MoneyMan projects.</li>
-          </ul>
+          <p>
+            Worked on <strong>MoneyMan</strong> &mdash; the largest online
+            alternative lending service, and 5 more similar products as a{' '}
+            <strong>Front-end Developer</strong>. Products were written with{' '}
+            <strong>SASS</strong>, <strong>Backbone</strong> and{' '}
+            <strong>jQuery</strong>. The development team consists of 2 people
+            located at the same place.
+          </p>
+          <p>
+            At the project, I was responsible for new features development,
+            sprint goals accomplish, sprint estimation, refactoring, code
+            review, product quality.
+          </p>
           <h3>Onestop Internet</h3>
           <p>
             Lead Software Engineer <br />
             March 2014 &ndash; August 2014 <br />
             Los Angeles County, California, United States
           </p>
-          <p>Worked on Front-end related tasks.</p>
+          <p>
+            Worked on <strong>E-commerce</strong> products as a{' '}
+            <strong>Front-end Developer</strong>. Products were written with{' '}
+            <strong>Knockout</strong> and <strong>jQuery</strong>. The
+            development team consists of 5 people located at the same place.
+          </p>
+          <p>
+            At the project, I was responsible for new features development,
+            sprint goals accomplish, sprint estimation, product quality.
+          </p>
           <h3>Startup Labs</h3>
           <p>
             Lead Software Engineer <br />
             August 2012 &ndash; September 2013 <br />
             Minsk, Belarus
           </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>Processes automation;</li>
-            <li>Added SASS support to all projects in the company;</li>
-            <li>
-              Developed reusable complex responsive web components like RWD
-              forms, carousels, etc;
-            </li>
-            <li>
-              Participated in all phases of the software development cycle: from
-              product definition and design through implementation, debugging,
-              and testing;
-            </li>
-            <li>
-              Was created a universal template which increased feature
-              implementation speed and speeds up release cycle;
-            </li>
-            <li>
-              Created core admin template for all projects that reduced support
-              effort;
-            </li>
-            <li>Made decisions on technologies to use;</li>
-            <li>Setup processes in front-end department;</li>
-            <li>Added Code Review into the process;</li>
-            <li>Task distribution in the department;</li>
-            <li>Presentations about technologies for department;</li>
-            <li>Interviewed candidates;</li>
-            <li>Worked on Front-end related tasks.</li>
-          </ul>
-          <p>Projects:</p>
-          <ul>
-            <li>
-              Yosto Control Panel and Landing Page — Private lead generation
-              affiliate network;
-            </li>
-            <li>
-              Clicketta Control Panel, Landing Page and Clicketta Module — Next
-              Generation Ad Marketplace;
-            </li>
-            <li>
-              Agentera Control Panel, Landing Page and Agentera Module —
-              Automated intellectual support system;
-            </li>
-            <li>
-              Weberra Control Panel and Landing Page — Lead Generation Sites
-              Builder.
-            </li>
-            <li>
-              Short term loan lenders who can provide you with access to the
-              emergency funds you need, regardless of the reason:
-            </li>
-            <li>Loan Up (https://loanup.com/);</li>
-            <li>21 more similar projects.</li>
-          </ul>
+          <p>
+            Worked on <strong>Fintech</strong> products as a{' '}
+            <strong>Front-end Lead</strong>. Products were written with{' '}
+            <strong>SASS</strong> and <strong>jQuery</strong>. The development
+            team consists of 13 people located at the same place.
+          </p>
+          <p>
+            At the project, I was responsible for sprint goals accomplish,
+            sprint estimation, code review, product quality.
+          </p>
           <h3>EPAM Systems</h3>
           <p>
             Software Engineer <br />
             March 2011 &ndash; August 2012 <br />
             Minsk, Belarus
           </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>Participated in re-platforming phase;</li>
-            <li>Integrated with FLUX, Facebook, Twitter;</li>
-            <li>Developed reusable web components;</li>
-            <li>Added Responsive Web Design to projects;</li>
-            <li>Optimized static content;</li>
-            <li>Added Code Review into the process;</li>
-            <li>Presented technical demos to the customer;</li>
-            <li>Worked on Front-end related tasks.</li>
-          </ul>
-          <p>Projects:</p>
-          <ul>
-            <li>
-              <p>MTV / Viacom:</p>
-              <ul>
-                <li>GameTrailers — Game Portal;</li>
-                <li>
-                  Comedy Central — News Portal (http://www.comedycentral.com/);
-                </li>
-                <li>
-                  The Daily Show — News Portal (http://www.thedailyshow.com/);
-                </li>
-                <li>SPIKE — News Portal (http://www.spike.com/).</li>
-              </ul>
-            </li>
-            <li>
-              <p>IMAX:</p>
-              <ul>
-                <li>IMAX - SITE(https://www.imax.com/).</li>
-              </ul>
-            </li>
-          </ul>
+          <dl>
+            <dt>
+              <h4>Viacom</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on <strong>MTV Game Trailers</strong>,{' '}
+                <strong>MTV Comedy Central</strong>,{' '}
+                <strong>MTV The Daily Show</strong>, and{' '}
+                <strong>MTV SPIKE</strong> for <strong>Viacom</strong> as a{' '}
+                <strong>Front-end Developer</strong>. Products were written with{' '}
+                <strong>SASS</strong> and <strong>jQuery</strong>. The
+                development team consists of 5 people located at the same place.
+              </p>
+              <p>
+                At the projects, I was responsible for sprint goals accomplish,
+                sprint estimation, code review, product quality.
+              </p>
+            </dd>
+            <dt>
+              <h4>IMAX</h4>
+            </dt>
+            <dd>
+              <p>
+                Worked on <strong>Smart TV</strong> application for{' '}
+                <strong>IMAX</strong> as a <strong>Front-end Developer</strong>.
+                The product was written with <strong>JS</strong>. The
+                development team consists of 2 people located at the same place.
+              </p>
+              <p>
+                At the project, I was responsible for sprint goals accomplish,
+                sprint estimation, product quality.
+              </p>
+            </dd>
+          </dl>
           <h3>Dmitri Borovoy design studio</h3>
           <p>
             Software Engineer <br />
             April 2010 &ndash; October 2010 <br />
             Minsk, Belarus
           </p>
-          <p>Following tasks were performed:</p>
-          <ul>
-            <li>
-              Worked on projects that took grand prizes on Golden Web 2010
-              (Russian Web Contest);
-            </li>
-            <li>Worked on Front-end related tasks.</li>
-          </ul>
+          <p>
+            Worked on countless <strong>Design Studio</strong> quality products
+            as a <strong>Front-end Developer</strong>. Products were written
+            with <strong>SASS</strong> and <strong>jQuery</strong>.
+          </p>
+          <p>
+            At the project, I was responsible for sprint goals accomplish,
+            sprint estimation, product quality.
+          </p>
           <h3>Freelance</h3>
           <p>
-            Front-end Developer <br />
             September 2014 &ndash; January 2015 <br />
             September 2013 &ndash; March 2014 <br />
             October 2010 &ndash; March 2011 <br />
             June 2005 &ndash; April 2010
           </p>
-          <p>Worked on Front-end related tasks.</p>
-          <p>Projects:</p>
-          <ul>
-            <li>
-              Atlant Telecom Corporate Site — Largest ISP in Belarus
-              (https://internet.velcom.by/);
-            </li>
-            <li>
-              Red Graphic Corporate Site — Interactive Agency
-              (http://redgraphic.com/);
-            </li>
-            <li>
-              Public Group Promo Site — Branding Company (http://pgr.by/);
-            </li>
-            <li>
-              World of Tanks Game Portal modules — Team-based massively
-              multiplayer online action game (http://worldoftanks.ru/).
-            </li>
-          </ul>
         </section>
         <section>
           <h2>Education</h2>
