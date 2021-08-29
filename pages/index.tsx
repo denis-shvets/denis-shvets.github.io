@@ -8,7 +8,7 @@ function HomePage() {
   return (
     <main className={styles.root}>
       <Head>
-        <title>{NAME}</title>
+        <title>{NAME} &mdash; Front-end Developer</title>
         <meta name="author" content={NAME} />
         <meta
           name="description"
