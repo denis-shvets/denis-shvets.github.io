@@ -1,14 +1,16 @@
 import Head from 'next/head';
 
-import { NAME } from '../constants';
+import { NAME } from '~/constants';
 
-import styles from '../styles/home.module.scss';
+import styles from '~/styles/home.module.scss';
 
 function HomePage() {
+  const title = `${NAME} \u2014 Front-end Developer`;
+
   return (
     <main className={styles.root}>
       <Head>
-        <title>{NAME} &mdash; Front-end Developer</title>
+        <title>{title}</title>
         <meta name="author" content={NAME} />
         <meta
           name="description"
